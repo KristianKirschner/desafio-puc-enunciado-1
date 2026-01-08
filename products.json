@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung A54",
+    "category": "Celulares",
+    "quantity": 10,
+    "price": 1400
+  },
+  {
+    "id": 2,
+    "name": "Iphone 15",
+    "category": "Celulares",
+    "quantity": 5,
+    "price": 4500
+  }
+]
