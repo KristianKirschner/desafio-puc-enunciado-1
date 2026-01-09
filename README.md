@@ -28,10 +28,7 @@ node -v
 
 ```bash
 git clone https://github.com/KristianKirschner/desafio-puc-enunciado-1.git
-```
-
-```bash
-cd agilstore
+cd desafio-puc-enunciado-1
 ```
 
 ### 2 - Instalar dependências
